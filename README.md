@@ -115,7 +115,8 @@
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Airship](https://img.shields.io/badge/Airship-00A4E4?style=flat-square)
 ![OneSignal](https://img.shields.io/badge/OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white)
-![Braze](https://img.shields.io/badge/Braze-FF5A00?style=flat-square)
+![AppsFlyer](https://img.shields.io/badge/AppsFlyer-36C7F7?style=flat-square)
+![Branch](https://img.shields.io/badge/Branch-3B4CCA?style=flat-square)
 ![Apple Search Ads](https://img.shields.io/badge/Apple_Search_Ads-0D96F6?style=flat-square&logo=apple&logoColor=white)
 ![ASO](https://img.shields.io/badge/App_Store_Optimization-203A43?style=flat-square)
 
@@ -140,7 +141,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=aportilloguerrero&hide_border=true" alt="contribution streak"/>
+<a href="https://github.com/aportilloguerrero"><img src="https://ghchart.rshah.org/2C5364/aportilloguerrero" alt="contribution graph" width="100%"/></a>
 
 </div>
 
