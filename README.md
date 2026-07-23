@@ -80,6 +80,11 @@
         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/a0/13/c2a0138c-c2c4-cb02-1188-404c7e7b13bf/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg" width="72" alt="Háblalo"/><br/><sub><b>Háblalo</b><br/>accessibility<br/>communication app</sub>
       </a>
     </td>
+    <td align="center" width="110">
+      <a href="https://www.appbrain.com/appstore/ola-invest-in-stocks-funds/ios-1583024201">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/48/e6/a148e6c4-bb58-fe48-eba2-c005e325d6aa/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="72" alt="Ola"/><br/><sub><b>Ola</b><br/>fintech investing,<br/>MVP → launch</sub>
+      </a>
+    </td>
   </tr>
 </table>
 
