@@ -39,7 +39,7 @@
     <td>
       <b>The daily murder sudoku — a cozy murder-mystery logic puzzle.</b><br/>
       A new case every day, solved with pure deduction.<br/>
-      <sub>Swift 6 · SwiftUI · StoreKit 2</sub><br/>
+      <sub>Swift 6 · SwiftUI · StoreKit 2 (consumable IAP) · CloudKit · Game Center</sub><br/>
       <a href="https://apps.apple.com/app/id6789290128"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a>
       <a href="https://cozyculprits.com"><img src="https://img.shields.io/badge/Website-203A43?style=flat-square" alt="Website"/></a>
     </td>
