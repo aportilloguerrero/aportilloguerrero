@@ -101,11 +101,20 @@
 **Apple platforms**
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 ![Swift 6 Strict Concurrency](https://img.shields.io/badge/Swift_6_Strict_Concurrency-F05138?style=flat-square&logo=swift&logoColor=white)
+![@Observable](https://img.shields.io/badge/%40Observable-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-FF6B35?style=flat-square&logo=swift&logoColor=white)
 ![StoreKit 2](https://img.shields.io/badge/StoreKit_2-0D96F6?style=flat-square&logo=appstore&logoColor=white)
-![Core ML](https://img.shields.io/badge/Core_ML-111111?style=flat-square&logo=apple&logoColor=white)
+![CloudKit](https://img.shields.io/badge/CloudKit-3693F3?style=flat-square&logo=icloud&logoColor=white)
+![Game Center](https://img.shields.io/badge/Game_Center-111111?style=flat-square&logo=apple&logoColor=white)
+![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white)
+![Core Location](https://img.shields.io/badge/Core_Location-111111?style=flat-square&logo=apple&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-111111?style=flat-square&logo=apple&logoColor=white)
 ![WidgetKit](https://img.shields.io/badge/WidgetKit-111111?style=flat-square&logo=apple&logoColor=white)
 ![WatchKit](https://img.shields.io/badge/WatchKit-111111?style=flat-square&logo=apple&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-111111?style=flat-square&logo=apple&logoColor=white)
+![Swift Testing](https://img.shields.io/badge/Swift_Testing-F05138?style=flat-square&logo=swift&logoColor=white)
 ![XCTest](https://img.shields.io/badge/XCTest-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 **Growth, analytics & observability**
