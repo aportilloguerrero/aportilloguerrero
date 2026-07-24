@@ -24,7 +24,7 @@
     <td>
       <b>The on-device AI migraine tracker.</b><br/>
       Real-time barometric-pressure detection via the iPhone altimeter, Apple Watch app, widgets — health data never leaves the phone.<br/>
-      <sub>Swift 6 · SwiftUI · Core ML · StoreKit 2 · WatchKit · WidgetKit</sub><br/>
+      <sub>Swift 6 · SwiftUI · Apple Intelligence (FoundationModels) · StoreKit 2 · WatchKit · WidgetKit</sub><br/>
       <a href="https://apps.apple.com/app/id6759878642"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a>
       <a href="https://getmigra.com"><img src="https://img.shields.io/badge/Website-203A43?style=flat-square" alt="Website"/></a>
     </td>
@@ -113,7 +113,7 @@
 ![Push Notifications](https://img.shields.io/badge/Push_Notifications-111111?style=flat-square&logo=apple&logoColor=white)
 ![WidgetKit](https://img.shields.io/badge/WidgetKit-111111?style=flat-square&logo=apple&logoColor=white)
 ![WatchKit](https://img.shields.io/badge/WatchKit-111111?style=flat-square&logo=apple&logoColor=white)
-![Core ML](https://img.shields.io/badge/Core_ML-111111?style=flat-square&logo=apple&logoColor=white)
+![Apple Intelligence](https://img.shields.io/badge/Apple_Intelligence_(FoundationModels)-111111?style=flat-square&logo=apple&logoColor=white)
 ![Swift Testing](https://img.shields.io/badge/Swift_Testing-F05138?style=flat-square&logo=swift&logoColor=white)
 ![XCTest](https://img.shields.io/badge/XCTest-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
