@@ -94,7 +94,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,kotlin,ts,nodejs,python,react,firebase,supabase,cloudflare,sentry,postgres,githubactions&perline=6" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=apple,swift,kotlin,firebase,supabase,cloudflare,sentry,githubactions&perline=8" alt="stack"/>
+
+<sub><b>Also shipped production code with:</b> React · TypeScript · Node.js · PostgreSQL · Python — across Doozy, Orai and Ola Invierte. Not my daily drivers today, and I ramp fast (ask me about the Swift 6 migration).</sub>
 
 **Apple platforms**
 
